@@ -1,0 +1,1 @@
+plt.savefig('my_chart.png', bbox_inches='tight', dpi=150
